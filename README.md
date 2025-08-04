@@ -39,3 +39,6 @@ An AI-powered assistant that simplifies travel planning by providing personalize
 ---
 
 ## 📂 Project Structure
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/c3d747ef-b67f-4c2e-9832-c296a0803188" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4d7c23ab-560e-4ead-95f7-3b673b46c12f" />
+
